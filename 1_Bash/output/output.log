@@ -1,0 +1,9 @@
+total 128
+-rw-r--r--  1 connorlawless  staff      0 17 Jan 17:13 1.
+-rw-r--r--  1 connorlawless  staff  49665 23 Jan 14:45 W1D2 - Bash.ipynb
+drwxr-xr-x  5 connorlawless  staff    160 23 Jan 14:46 examples
+drwxr-xr-x  6 connorlawless  staff    192 23 Jan 13:36 ls_example
+drwxr-xr-x  7 connorlawless  staff    224 23 Jan 14:46 output
+-rw-r--r--  1 connorlawless  staff    811 23 Jan 14:42 output.log
+-rw-r--r--  1 connorlawless  staff      6 17 Jan 17:09 output1.txt
+-rw-r--r--  1 connorlawless  staff      6 17 Jan 17:09 output2.txt
