@@ -1,0 +1,4 @@
+my_pic.jpeg
+pic2.jpeg
+beautiful_image.png
+shot_by_iphone.png
